@@ -1,0 +1,4 @@
+I have made an assistant that helps me to determine trial eligibility for my patient using the uploaded eligibility criteria.
+Please take the common elements of the expert responses and aggregate them into a single consensus. 
+
+{responses}
